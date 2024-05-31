@@ -1,6 +1,6 @@
 ========== HEADER ==========
 .nav__logo
-Travel
+PanchalTravel
 
 .nav__link
 Home - About - Popular - Explore
@@ -8,7 +8,7 @@ Home - About - Popular - Explore
 
 ========== HOME ==========
 .home__subtitle
-Welcome To Travel
+Welcome To PanchalTravel
 
 .home__title
 Explore <br>
@@ -95,7 +95,7 @@ Subscribe Our Newsletter
 
 ========== FOOTER ==========
 .footer__logo
-Travel
+PanchalTravel
 
 .footer__description
 Travel with us and explore <br> 
@@ -129,4 +129,4 @@ https://twitter.com/
 https://www.youtube.com/
 
 .footer__copy
-&#169; Copyright Bedimcode. All rights reserved
+&#169; Copyright BhaveshPanchal. All rights reserved
